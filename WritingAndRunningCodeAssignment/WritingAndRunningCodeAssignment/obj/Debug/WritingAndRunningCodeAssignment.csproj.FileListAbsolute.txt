@@ -1,0 +1,7 @@
+C:\Users\ellie\source\repos\WritingAndRunningCodeAssignment\WritingAndRunningCodeAssignment\bin\Debug\WritingAndRunningCodeAssignment.exe.config
+C:\Users\ellie\source\repos\WritingAndRunningCodeAssignment\WritingAndRunningCodeAssignment\bin\Debug\WritingAndRunningCodeAssignment.exe
+C:\Users\ellie\source\repos\WritingAndRunningCodeAssignment\WritingAndRunningCodeAssignment\bin\Debug\WritingAndRunningCodeAssignment.pdb
+C:\Users\ellie\source\repos\WritingAndRunningCodeAssignment\WritingAndRunningCodeAssignment\obj\Debug\WritingAndRunningCodeAssignment.csproj.AssemblyReference.cache
+C:\Users\ellie\source\repos\WritingAndRunningCodeAssignment\WritingAndRunningCodeAssignment\obj\Debug\WritingAndRunningCodeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ellie\source\repos\WritingAndRunningCodeAssignment\WritingAndRunningCodeAssignment\obj\Debug\WritingAndRunningCodeAssignment.exe
+C:\Users\ellie\source\repos\WritingAndRunningCodeAssignment\WritingAndRunningCodeAssignment\obj\Debug\WritingAndRunningCodeAssignment.pdb
