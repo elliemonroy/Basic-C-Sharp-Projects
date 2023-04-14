@@ -1,0 +1,7 @@
+C:\Users\ellie\source\repos\BooleanComparisonWhileStatement\BooleanComparisonWhileStatement\bin\Debug\BooleanComparisonWhileStatement.exe.config
+C:\Users\ellie\source\repos\BooleanComparisonWhileStatement\BooleanComparisonWhileStatement\bin\Debug\BooleanComparisonWhileStatement.exe
+C:\Users\ellie\source\repos\BooleanComparisonWhileStatement\BooleanComparisonWhileStatement\bin\Debug\BooleanComparisonWhileStatement.pdb
+C:\Users\ellie\source\repos\BooleanComparisonWhileStatement\BooleanComparisonWhileStatement\obj\Debug\BooleanComparisonWhileStatement.csproj.AssemblyReference.cache
+C:\Users\ellie\source\repos\BooleanComparisonWhileStatement\BooleanComparisonWhileStatement\obj\Debug\BooleanComparisonWhileStatement.csproj.CoreCompileInputs.cache
+C:\Users\ellie\source\repos\BooleanComparisonWhileStatement\BooleanComparisonWhileStatement\obj\Debug\BooleanComparisonWhileStatement.exe
+C:\Users\ellie\source\repos\BooleanComparisonWhileStatement\BooleanComparisonWhileStatement\obj\Debug\BooleanComparisonWhileStatement.pdb
