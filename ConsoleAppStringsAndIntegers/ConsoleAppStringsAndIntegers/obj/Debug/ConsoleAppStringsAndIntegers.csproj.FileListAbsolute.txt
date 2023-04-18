@@ -1,0 +1,7 @@
+C:\Users\ellie\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\bin\Debug\ConsoleAppStringsAndIntegers.exe.config
+C:\Users\ellie\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\bin\Debug\ConsoleAppStringsAndIntegers.exe
+C:\Users\ellie\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\bin\Debug\ConsoleAppStringsAndIntegers.pdb
+C:\Users\ellie\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\ConsoleAppStringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\ellie\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\ConsoleAppStringsAndIntegers.exe
+C:\Users\ellie\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\ConsoleAppStringsAndIntegers.pdb
+C:\Users\ellie\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\ConsoleAppStringsAndIntegers.csproj.AssemblyReference.cache
