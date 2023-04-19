@@ -1,0 +1,7 @@
+C:\Users\ellie\source\repos\Struct\Struct\bin\Debug\Struct.exe.config
+C:\Users\ellie\source\repos\Struct\Struct\bin\Debug\Struct.exe
+C:\Users\ellie\source\repos\Struct\Struct\bin\Debug\Struct.pdb
+C:\Users\ellie\source\repos\Struct\Struct\obj\Debug\Struct.csproj.AssemblyReference.cache
+C:\Users\ellie\source\repos\Struct\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+C:\Users\ellie\source\repos\Struct\Struct\obj\Debug\Struct.exe
+C:\Users\ellie\source\repos\Struct\Struct\obj\Debug\Struct.pdb
