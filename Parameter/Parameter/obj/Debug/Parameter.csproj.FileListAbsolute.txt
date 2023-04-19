@@ -1,0 +1,7 @@
+C:\Users\ellie\source\repos\Parameter\Parameter\bin\Debug\Parameter.exe.config
+C:\Users\ellie\source\repos\Parameter\Parameter\bin\Debug\Parameter.exe
+C:\Users\ellie\source\repos\Parameter\Parameter\bin\Debug\Parameter.pdb
+C:\Users\ellie\source\repos\Parameter\Parameter\obj\Debug\Parameter.csproj.AssemblyReference.cache
+C:\Users\ellie\source\repos\Parameter\Parameter\obj\Debug\Parameter.csproj.CoreCompileInputs.cache
+C:\Users\ellie\source\repos\Parameter\Parameter\obj\Debug\Parameter.exe
+C:\Users\ellie\source\repos\Parameter\Parameter\obj\Debug\Parameter.pdb
