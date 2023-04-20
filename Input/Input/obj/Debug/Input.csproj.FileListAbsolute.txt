@@ -1,0 +1,7 @@
+C:\Users\ellie\source\repos\Input\Input\obj\Debug\Input.csproj.AssemblyReference.cache
+C:\Users\ellie\source\repos\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\ellie\source\repos\Input\Input\bin\Debug\Input.exe.config
+C:\Users\ellie\source\repos\Input\Input\bin\Debug\Input.exe
+C:\Users\ellie\source\repos\Input\Input\bin\Debug\Input.pdb
+C:\Users\ellie\source\repos\Input\Input\obj\Debug\Input.exe
+C:\Users\ellie\source\repos\Input\Input\obj\Debug\Input.pdb
