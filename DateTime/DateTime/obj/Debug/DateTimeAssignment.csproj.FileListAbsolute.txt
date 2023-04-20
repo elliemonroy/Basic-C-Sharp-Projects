@@ -1,0 +1,7 @@
+C:\Users\ellie\source\repos\DateTime\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\ellie\source\repos\DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\ellie\source\repos\DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\ellie\source\repos\DateTime\DateTime\obj\Debug\DateTimeAssignment.csproj.AssemblyReference.cache
+C:\Users\ellie\source\repos\DateTime\DateTime\obj\Debug\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ellie\source\repos\DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\ellie\source\repos\DateTime\DateTime\obj\Debug\DateTime.pdb
